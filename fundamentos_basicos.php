@@ -19,7 +19,7 @@
                                    
          echo  $nome;
   
-  
+        
   ?>
 </body>
 </html>
